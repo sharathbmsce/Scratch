@@ -4,8 +4,11 @@
 <ul>
 <li>Developed using ReactJS and AWS</li> 
 </ul>
-<img src="https://raw.githubusercontent.com/sharathbmsce/Scratch/master/Screenshots/Screenshot from 2019-07-16 11-48-25.png"
+<img src="https://raw.githubusercontent.com/sharathbmsce/Scratch/master/screenshots/Home.png"
      alt="Image not available"
     height="400"
    /><br/>
-
+<img src="https://raw.githubusercontent.com/sharathbmsce/Scratch/master/screenshots/signup.png"
+     alt="Image not available"
+    height="400"
+   /><br/>
